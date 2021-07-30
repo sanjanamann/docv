@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425803800175",
+    "project_id": "docv-8cf36",
+    "storage_bucket": "docv-8cf36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425803800175:android:ed1d74dd589cb38a81b79a",
+        "android_client_info": {
+          "package_name": "com.example.docv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425803800175-n1bnir5830ab18iqhu78k48nj44aoms4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4M4kUMJfyXdqyfZyh0C9VaUIdxB1nn4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425803800175-n1bnir5830ab18iqhu78k48nj44aoms4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
